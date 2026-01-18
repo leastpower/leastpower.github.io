@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting things done in the era of LLMs"
+title: "Managing notes"
 date: 2026-01-14
 ---
 
