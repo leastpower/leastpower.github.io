@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Life satisfaction and social mobility"
+title: "Social mobility"
 date: 2026-01-17
 ---
 
